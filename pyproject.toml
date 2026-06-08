@@ -1,0 +1,12 @@
+[project]
+name = "cha-policy-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "altair>=6.2.1",
+    "geopandas>=1.1.3",
+    "pandas>=3.0.3",
+    "vega-datasets>=0.9.0",
+]
